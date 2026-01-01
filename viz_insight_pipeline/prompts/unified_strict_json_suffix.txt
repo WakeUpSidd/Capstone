@@ -1,0 +1,4 @@
+STRICT OUTPUT RULES:
+- Output ONLY a single valid JSON object.
+- Do not wrap in markdown fences.
+- Do not include any commentary outside JSON.
